@@ -2,10 +2,9 @@ Welcome! If you are here, you have BrotherMunro's Dreadnoughts Improvement Mod a
 
 The Improved Hulls Selection and Gun Model Selection submod for BrotherMunro's Dreadnoughts Improvement Mod adjusts the weapon models and hulls available for each newly added (non-vanilla) nation, making life a bit more visually interesting. Note that this submod may affect or break existing saves.
 
-##This submod is a work in progress and is not complete yet. Here's what I need to do:
+##This submod is a continual work in progress. It may be a finished working product, but I'm keeping an open mind to potential fixes or changes. Here's what I need to do:
 * Fix scale issues on various gun models
-* Adjust nation-specific ship rosters
-* Complete gun rosters for Korea
+* Review current gameplay experiences through playtesting to make balance/content adjustments as necessary
 
 All versions of this submod will be saved and backed up here; however this submod was created when 3a10 was the current version and I will not be making versions for any DIP version older than this. You may freely use this in your own work. I appreciate credit but it is not necessary. Some helpful assistance was provided by Rocketlinux Jake_the_Drake, thank you two kindly!
 
